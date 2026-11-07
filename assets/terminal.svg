@@ -23,7 +23,7 @@
   <g clip-path="url(#c1)"><text class="t" x="40" y="70" xml:space="preserve"><tspan fill="#28c840">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text></g>
   <g clip-path="url(#c2)"><text class="t" x="40" y="100" xml:space="preserve"><tspan fill="#7ee8fa">sudipta_majumder</tspan><tspan fill="#64748b">  # Ph.D. scholar · CSIR JRF · IIT Kharagpur</tspan></text></g>
   <g clip-path="url(#c3)"><text class="t" x="40" y="134" xml:space="preserve"><tspan fill="#28c840">$</tspan><tspan fill="#e6edf3"> cat focus.md</tspan></text></g>
-  <g clip-path="url(#c4)"><text class="t" x="40" y="164" fill="#fbbf24">QAOA · hierarchical graph optimization · quantum ML</text></g>
+  <g clip-path="url(#c4)"><text class="t" x="40" y="164" fill="#fbbf24">QAOA · graph optimization · quantum ML </text></g>
 
   <text class="t" x="40" y="194" fill="#28c840">$</text>
   <rect class="cur" x="58" y="181" width="9" height="16" fill="#e6edf3"/>
